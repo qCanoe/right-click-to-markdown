@@ -1,6 +1,6 @@
 # Right Click to Markdown · One-click Markdown from File Explorer
 
-**Language / 语言:** [简体中文](README.zh-CN.md) | [English](README.md)
+[简体中文](README.zh-CN.md) | [English](README.md)
 
 Right-click a file in File Explorer and choose **Convert to Markdown (MarkItDown)** to create a `.md` file **in the same folder**, with the same base name. Conversion is powered by [MarkItDown](https://github.com/microsoft/markitdown). This repository adds installer scripts under `scripts/windows/` and a no-console launcher.
 
