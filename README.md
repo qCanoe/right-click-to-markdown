@@ -1,5 +1,5 @@
 # Right Click to Markdown 
-One-click Markdown from File Explorer
+**One-click Markdown from File Explorer**
 
 [简体中文](README.zh-CN.md) | [English](README.md)
 
