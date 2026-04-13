@@ -92,6 +92,4 @@ From the repository root:
 
 ---
 
-**Repository:** [github.com/qCanoe/right-click-to-markdown](https://github.com/qCanoe/right-click-to-markdown)
-
 *Upstream MarkItDown: <https://github.com/microsoft/markitdown>*
