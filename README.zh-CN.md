@@ -91,6 +91,5 @@ python -m markitdown --version
 
 ---
 
-**仓库：** [github.com/qCanoe/right-click-to-markdown](https://github.com/qCanoe/right-click-to-markdown)
 
 *转换核心与上游文档：<https://github.com/microsoft/markitdown>*
