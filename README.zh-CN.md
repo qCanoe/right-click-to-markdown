@@ -1,6 +1,6 @@
 # Right Click to Markdown · Windows 右键一键转为 Markdown
 
-**Language / 语言:** [简体中文](README.zh-CN.md) | [English](README.md)
+ [简体中文](README.zh-CN.md) | [English](README.md)
 
 在资源管理器中右键文件，选择 **Convert to Markdown (MarkItDown)**，会在**同目录**生成与源文件同名的 `.md` 文件。转换引擎来自 [MarkItDown](https://github.com/microsoft/markitdown)；本仓库在 `scripts/windows/` 中提供右键菜单安装与无控制台调用封装。
 
