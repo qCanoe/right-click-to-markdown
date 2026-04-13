@@ -1,4 +1,4 @@
-# Right Click to Markdown · Windows Explorer context menu
+# Right Click to Markdown · One-click Markdown from File Explorer
 
 **Language / 语言:** [简体中文](README.zh-CN.md) | [English](README.md)
 
